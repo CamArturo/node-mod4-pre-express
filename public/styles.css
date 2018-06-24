@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+}
+
+button {
+  background-color: blue;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.sunset-container img {
+  width: 500px;
+}
